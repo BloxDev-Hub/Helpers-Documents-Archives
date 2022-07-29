@@ -1,3 +1,3 @@
-# Helpers Documents are [Helpers Documnets](https://rodevshelper.zapto.org/)
+# Helpers Documents are moved to [Helpers Documnets](https://rodevshelper.zapto.org/)
 
 we apologize for the inconvenience!
