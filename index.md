@@ -1,3 +1,3 @@
-# Helpers Documents are moved to [Helpers Documents](https://helpers-docs.serveblog.net) https://helpers-docs.serveblog.net/
+# Helpers Documents are moved to [Helpers Documents](https://www.helpers-documents.ml/) https://www.helpers-documents.ml/
 
 we apologize for the inconvenience!
