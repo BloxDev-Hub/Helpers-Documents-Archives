@@ -1,3 +1,3 @@
-# Helpers Documents are moved to [Helpers Documents](https://www.helpers-documents.ml/) https://www.helpers-documents.ml/
+# Helpers Documents are moved to [Helpers Documents](https://docs.rodevs.com/) https://docs.rodevs.com/
 
 we apologize for the inconvenience!
