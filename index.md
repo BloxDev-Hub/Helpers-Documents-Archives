@@ -1,3 +1,7 @@
-# Helpers Documents are moved to [Helpers Documents](https://docs.rodevs.com/) https://docs.rodevs.com/
+# Helpers Documents are moved
+
+helper documents are no longer available on helpers-documents.ml
+
+https://docs.rodevs.com/
 
 we apologize for the inconvenience!
