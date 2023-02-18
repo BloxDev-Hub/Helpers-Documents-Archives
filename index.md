@@ -2,7 +2,9 @@
 
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; URL='https://docs.rodevs.com/'" />
+    <script type="text/javascript">
+      window.location.href = "https://docs.rodevs.com/";
+    </script>
   </head>
   <body>
   </body>
